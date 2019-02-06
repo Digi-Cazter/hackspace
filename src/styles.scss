@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+@import './app/app.component';
+@import './app/game/game.component';
+@import './app/game-board/game-board.component';
+@import './app/puzzle/puzzle.component';
+@import './app/puzzle-piece/puzzle-piece.component';
+@import './app/puzzle-pieces/puzzle-pieces.component';
